@@ -15,5 +15,9 @@ You simply provide a topic and which email you want to send, and the AI handles 
 ### 3. The Book
 A fully formatted pdf essay with proper chapters currently it supports upto 5 chapters for a book
 
-![Book](book.png)
+![Book](./assets/book.png)
+
+## 4. The Mail
+It will automatically send the mail
+![mail](./assets/mail.png)
 
